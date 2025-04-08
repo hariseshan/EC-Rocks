@@ -1,0 +1,6 @@
+@EC.Application.API_HostAddress = http://localhost:5139
+
+GET {{EC.Application.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
